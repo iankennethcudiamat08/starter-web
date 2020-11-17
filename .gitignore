@@ -1,3 +1,7 @@
 git log --online --graph --decorate
 log/
-
+*.orig
+simple_BACKUP_2236.html
+simple_BASE_2236.html
+simple_LOCAL_2236.html
+simple_REMOTE_2236.html
